@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdallah Ouda</h1>
+<h1 align="center">Hi 👋, I'm Abdallah Aoda</h1>
 <h3 align="center">Flutter Developer focused on writing clean code, learning every day, and building meaningful apps 💡📱</h3>
 
 ---
