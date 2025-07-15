@@ -7,7 +7,7 @@
 - 🌱 Constantly learning more about Flutter, Cubit, Firebase, Testing  
 - 👯 I’m looking to collaborate on real mobile app projects  
 - 💬 Ask me about anything related to Flutter, Clean Architecture, or APIs  
-- 📫 How to reach me: abdallh@example.com  
+- 📫 How to reach me:bnaoda18@gmail.com 
 - ⚡️ Fun fact: I believe dark mode = extra 10x productivity 😎
 
 ---
